@@ -24,7 +24,7 @@ Gaze Tracker App — это функциональный инструмент, �
 ## 🛠 Установка
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/your-username/gaze-tracker-app.git
+   git clone https://github.com/savelevvaa/gaze-tracker-app.git
    ```
 2. Перейдите в папку с проектом:
    ```sh
@@ -89,5 +89,6 @@ pyinstaller --onefile --windowed \
 
 ## 📬 Контакты
 По вопросам пишите на [savelevvaa@mail.ru](mailto:savelevvaa@mail.ru) или создавайте issue.
+
 
 
