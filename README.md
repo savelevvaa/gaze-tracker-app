@@ -5,7 +5,7 @@
 <h1>Gaze Tracker Application</h1>
 </div>
 <div align="center">
-<p>Функциональное десктопное приложение для сбора данных движения взгляда пользователя при изучении графиеских изображений</p>
+<p>Функциональное десктопное приложение для сбора данных движения взгляда пользователя при изучении графических изображений</p>
 
 <img src="https://img.shields.io/pypi/pyversions/mediapipe" alt="Swift Language">  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/savelevvaa/gaze-tracker-app/total)  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/savelevvaa/gaze-tracker-app)  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed/savelevvaa/gaze-tracker-app)
 
@@ -67,7 +67,7 @@ pyinstaller --onefile --windowed \
 :-------------------------:|:-------------------------:
 ![alt text](assets/image-1.png)  |  ![alt text](assets/image-2.png)
 
-Справка по работе прилоежения  |  Окно конфигурации запуска трекера 
+Справка по работе приложения  |  Окно конфигурации запуска трекера 
 :-------------------------:|:-------------------------:
 ![alt text](assets/image-3.png)  |  ![alt text](assets/image-4.png)
 
@@ -84,14 +84,10 @@ pyinstaller --onefile --windowed \
 ![alt text](assets/image-10.png)  |  ![alt text](assets/image-11.png)
 
 
-
-
 ## 🤝 Вклад в проект
 Буду рад новым идеям и предложениям! Открывайте issues и отправляйте pull requests.
 
-## 📜 Лицензия
-Этот проект распространяется под лицензией [MIT License](LICENSE).
-
 ## 📬 Контакты
 По вопросам пишите на [savelevvaa@mail.ru](mailto:savelevvaa@mail.ru) или создавайте issue.
+
 
